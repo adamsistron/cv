@@ -1,6 +1,6 @@
 # Adam Joel Carrillo Cortés
 
-**Data Solutions Leader | Data Enginner | Data Scientist | Analytical Consultant**
+Data Solutions Leader | Data Enginner | Data Scientist | Analytical Consultant
 
 ---
 
@@ -11,6 +11,7 @@
 - **LinkedIn**: [Adam Carrillo](https://www.linkedin.com/in/adamsistron)
 - **Credentials**: [Credential](https://www.credential.net/723a4314-f805-4cc5-b8b0-77b4825f553b) | [YourAcclaim](https://www.youracclaim.com/users/adamjoel.carrillo/badges) | [Platzi](https://platzi.com/@adamsistron/) | [Todas](https://www.linkedin.com/in/adamsistron/details/certifications/)
 ---
+
 ## Perfil Profesional
 
 Ingeniero de Sistemas apasionado por los datos y las tecnologías de la información, con más de 14 años de experiencia (desde 2010) en el diseño, desarrollo e implementación de soluciones que impulsan la transformación digital a partir de los datos, convirtiéndolos en conocimiento accionable para generar valor en diversas industrias.
@@ -22,7 +23,9 @@ Poseo un sólido conocimiento en áreas como Business Intelligence, Data Enginee
 - **Date of Birth**: March 6, 1988
 - **Hobbies**: Proyectos personales, gastronomía, excursionismo y conexión con la naturaleza, aprendizaje continuo, fútbol
 - **Languages**: Spanish (Native), English (Basic)
+
 ---
+
 ## Education
 - **Maestría en Ciencias de Datos y Analítica Avanzada**  
   *Universidad Central de Venezuela*  
@@ -32,6 +35,7 @@ Poseo un sólido conocimiento en áreas como Business Intelligence, Data Enginee
   *Universidad Nacional Experimental Politécnica de la Fuerza Armada*  
   _2005 – 2010_
 ---
+
 ## Cursos y Certificaciones
 
 ### **SAS Training** 
@@ -64,7 +68,9 @@ Certificaciones en herramientas de Azure, incluyendo:
 - SAS Visual Analytics  
 - SAS Viya Overview  
 - Otros certificados avanzados en análisis y gestión de datos  
+
 ---
+
 ### Habilidades Técnicas
 
 #### Lenguajes de Programación
@@ -77,6 +83,7 @@ Spark, Databricks, AWS S3, AWS Redshift, Azure Synapse Analytics, SAS Viya, SAS 
 Liderazgo de equipos, comunicación asertiva, resolución de conflictos, capacidad de negociación, gestión del cambio, toma de decisiones estratégicas, mentoría y desarrollo profesional, trabajo en equipo, planificación estratégica, flexibilidad y adaptación al cambio, habilidades de conciliación, análisis profundo y resolución de problemas complejos.
 
 ---
+
 ## Experiencia Profesional
 
 ### **StrateBI**  
