@@ -10,6 +10,7 @@ Data Solutions Leader | Data Enginner | Data Scientist | Analytical Consultant
 - **E-mail**: adamcarrillocortes@gmail.com
 - **LinkedIn**: [Adam Carrillo](https://www.linkedin.com/in/adamsistron)
 - **Credentials**: [Credential](https://www.credential.net/723a4314-f805-4cc5-b8b0-77b4825f553b) | [YourAcclaim](https://www.youracclaim.com/users/adamjoel.carrillo/badges) | [Platzi](https://platzi.com/@adamsistron/) | [Todas](https://www.linkedin.com/in/adamsistron/details/certifications/)
+
 ---
 
 ## Perfil Profesional
