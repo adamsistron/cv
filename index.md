@@ -1,6 +1,6 @@
 # Adam Joel Carrillo Cortés
 
-Leader in Data Solutions \| Data Engineering Specialist \| Data Science Professional \| Analytics Consultant
+#### *Data Solutions Consultant | Data Engineering | Data Scientist*
 
 ---
 
