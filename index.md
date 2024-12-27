@@ -53,13 +53,6 @@ Poseo un sólido conocimiento en áreas como Business Intelligence, Data Enginee
 - **Big Data y Business Intelligence** – Universitat Autònoma de Barcelona
 - **Data, Machine Learning y AI** – Platzi
 
-### **Certificaciones SAS**
-
-- SAS Programming
-- SAS Visual Analytics
-- SAS Viya Overview
-- Otros certificados avanzados en análisis y gestión de datos
-
 ### **SAS Training**
 
 Capacitación especializada en análisis y gestión de datos con SAS:
