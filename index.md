@@ -82,7 +82,7 @@ Capacitaciones en herramientas de Azure, incluyendo:
 - Azure Databricks
 - Power BI
 
-### **IBM **
+### **IBM**
 
 Capacitación especializada en e-business developer:
 
