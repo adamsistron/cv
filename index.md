@@ -72,7 +72,7 @@ Capacitación especializada en análisis y gestión de datos con SAS:
 
 ### **Microsoft Learn**
 
-Certificaciones en herramientas de Azure, incluyendo:
+Capacitaciones en herramientas de Azure, incluyendo:
 
 - Azure Data Lake
 - Azure Blob Storage
@@ -81,6 +81,14 @@ Certificaciones en herramientas de Azure, incluyendo:
 - Azure Machine Learning
 - Azure Databricks
 - Power BI
+
+### **IBM **
+
+Capacitación especializada en e-business developer:
+
+- Applications E-Business
+- Application Development
+- Programming Fundamentals
 
 ---
 
