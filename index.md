@@ -93,7 +93,7 @@ SQL, Python, NoSQL, Shell, SAS, R, DAX, JavaScript y PHP.
 
 #### Herramientas y Soluciones
 
-Spark, Databricks, AWS S3, AWS Redshift, Azure Synapse Analytics, SAS Viya, SAS VDMML, Docker, Git, Tableau, PowerBI, SAS Visual Analytics, SAS Intelligent Decisioning, SAS Fraud Management, MongoDB, AWS Athena, ClickHouse, Apache Presto, Pentaho, Apache Hop, Data Fabric, SAS Open, AWS CLI, Azure
+Spark, Databricks, AWS S3, Azure Synapse Analytics, AWS Redshift, SAS Viya, SAS VDMML, Tableau, Power BI, SAS Visual Analytics, MongoDB, AWS Athena, Docker, Git, Elastic-Stack, KNIME, SAS Intelligent Decisioning, ClickHouse, SAS Fraud Management, Pentaho, Apache Hop, AWS CLI, Azure, SAS Open, Data Fabric
 
 ### Habilidades Interpersonales
 
